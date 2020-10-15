@@ -28,6 +28,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
+  numbers = ["wow", 2, 3].shift
   
 end
 
