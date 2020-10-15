@@ -33,7 +33,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  numbers = [1, 2, 3, 4, 5]
+  numbers = [1, 2, 3, "am", 5]
   numbers[3]
   
 end
