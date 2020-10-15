@@ -45,6 +45,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  numbers = [1, 2, 3, 4, 5][-1]
+  numbers = [1, 2, 3, 4, "arrays!"][-1]
   
 end
