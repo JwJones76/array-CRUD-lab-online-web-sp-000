@@ -11,13 +11,13 @@ end
 
 def add_element_to_end_of_array(array, element)
   numbers = [1, 2]
-  numbers.push"arrays!"
+  numbers.push("arrays!")
   
 end
 
 def add_element_to_start_of_array(array, element)
   numbers = [2, 3]
-  nymbers.unshift
+  nymbers.unshift(1)
   
   
 end
