@@ -40,7 +40,7 @@ end
 
 def retrieve_first_element_from_array(array)
   numbers = ["wow", 2, 3, 4, 5]
-  [0]
+  numbers[0]
   
 end
 
